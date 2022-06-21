@@ -74,15 +74,15 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="63" y="346" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="330" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="41" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="28" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="22" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="550" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../external/mbedtls/library/aes.c" selected="0" top="529" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="40" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="40" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="0" top="34" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="143" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.h" selected="0" top="125" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="31" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/sensors.h" selected="0" top="25" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="18" useTextEdit="1" useBinaryEdit="0" left="0" path="BM1390GLV_PRESS.emProject" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="342" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1046" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="41" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="550" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/mbedtls/library/aes.c" selected="0" top="529" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="46" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="93" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="39" useTextEdit="1" openedFrom="C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/BM1390GLV/main.c" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.h" selected="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="31" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.h" selected="0" top="25" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="18" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="BM1390GLV_PRESS.emProject" selected="0" top="0" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="BM1390GLV_PRESS" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="BM1390GLV_PRESS" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

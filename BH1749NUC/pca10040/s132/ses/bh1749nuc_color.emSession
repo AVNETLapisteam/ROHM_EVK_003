@@ -26,6 +26,7 @@
   <ProjectSessionItem path="bh1749nuc_color"/>
   <ProjectSessionItem path="bh1749nuc_color;bh1749nuc_color"/>
   <ProjectSessionItem path="bh1749nuc_color;bh1749nuc_color;Application"/>
+  <ProjectSessionItem path="bh1749nuc_color;bh1749nuc_color;sensor"/>
  </Project>
  <Register1>
   <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
@@ -62,16 +63,16 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="635" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="626" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/bh1749nuc/bh1749nuc_drv.c" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="147" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="136" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/include/nrfx_twim.h" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="116" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="100" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="256" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/ble_nus.c" selected="0" top="240" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="13" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/sensors.h" selected="0" top="13" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="14" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="31" useTextEdit="1" useBinaryEdit="0" left="0" path="bh1749nuc_color.emProject" selected="0" top="8" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="635" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="626" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/bh1749nuc/bh1749nuc_drv.c" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="1" top="29" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="147" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="37" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/include/nrfx_twim.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="116" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="256" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/ble_nus.c" selected="0" top="240" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="13" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.h" selected="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="14" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="31" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="bh1749nuc_color.emProject" selected="0" top="8" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="bh1749nuc_color" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="bh1749nuc_color" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

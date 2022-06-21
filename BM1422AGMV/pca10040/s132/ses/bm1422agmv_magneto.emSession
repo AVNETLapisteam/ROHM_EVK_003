@@ -71,11 +71,11 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="774" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="760" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="252" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/ble_nus.c" selected="0" top="235" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="635" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gatts.h" selected="0" top="621" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="30" useTextEdit="1" useBinaryEdit="0" left="0" path="bm1422agmv_magneto.emProject" selected="0" top="17" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="774" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="781" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="252" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/ble_nus.c" selected="0" top="235" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="635" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s132/headers/ble_gatts.h" selected="0" top="621" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="30" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="bm1422agmv_magneto.emProject" selected="0" top="17" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="22" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="bm1422agmv_magneto" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="bm1422agmv_magneto" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

@@ -65,15 +65,16 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="707" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="692" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" useBinaryEdit="0" left="0" path="kxtj3_1057_accelerometer.emProject" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="48" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/kxtj3_1057/kxtj3_1057_drv.h" selected="0" top="27" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="327" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/kxtj3_1057/kxtj3_1057_drv.c" selected="0" top="308" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="47" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="0" top="33" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="97" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/kxtj3_1057/kxtj3_1057_registers.h" selected="0" top="76" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="20" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/sensors.h" selected="0" top="20" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="43" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.h" selected="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="726" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="726" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="kxtj3_1057_accelerometer.emProject" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="48" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/kxtj3_1057/kxtj3_1057_drv.h" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="280" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/kxtj3_1057/kxtj3_1057_drv.c" selected="0" top="264" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="87" useTextEdit="1" openedFrom="C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3_1057/mod/kxtj3_1057/kxtj3_1057_drv.c" useBinaryEdit="0" left="0" path="../../../mod/kxtj3_1057/kxtj3_1057_registers.h" selected="0" top="63" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="20" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.h" selected="0" top="20" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="76" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.h" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="12332" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="12350" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="kxtj3_1057_accelerometer" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3-1057/mod/bsp_btn_ble.c&#xa;C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3_1057/mod/bsp_btn_ble.c" fileDialogInitialDirectory="C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3_1057/mod" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="kxtj3_1057_accelerometer" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3-1057/mod/bsp_btn_ble.c&#xa;C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3_1057/mod/bsp_btn_ble.c" fileDialogInitialDirectory="C:/nrfc/nRF5_SDK_17.0.2_d674dde/examples/ROHM_EVK_003_Application/KXTJ3_1057/mod" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

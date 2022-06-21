@@ -31,6 +31,7 @@
   <ProjectSessionItem path="BM1383AGLV_PRESS;BM1383AGLV_PRESS;nRF_Libraries"/>
   <ProjectSessionItem path="BM1383AGLV_PRESS;BM1383AGLV_PRESS;nRF_Oberon_Crypto"/>
   <ProjectSessionItem path="BM1383AGLV_PRESS;BM1383AGLV_PRESS;nRF_TLS"/>
+  <ProjectSessionItem path="BM1383AGLV_PRESS;BM1383AGLV_PRESS;sensor"/>
  </Project>
  <Register1>
   <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_hrs_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
@@ -67,11 +68,16 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1048" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1034" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="41" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="28" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" useBinaryEdit="0" left="0" path="BM1383AGLV_PRESS.emProject" selected="0" top="99" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="22" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="550" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../external/mbedtls/library/aes.c" selected="0" top="529" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="40" y="140" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="1" path="../../../main.c" selected="1" top="461" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="41" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="BM1383AGLV_PRESS.emProject" selected="0" top="99" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="flash_placement.xml" selected="0" top="22" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="550" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../external/mbedtls/library/aes.c" selected="0" top="529" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="41" y="46" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/bm1383aglv/bm1383aglv_drv.c" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="42" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/sensors.c" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="68" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mod/platform_functions.c" selected="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/scheduler/app_scheduler.c" selected="0" top="253" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11098" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11086" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="BM1383AGLV_PRESS" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="BM1383AGLV_PRESS" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

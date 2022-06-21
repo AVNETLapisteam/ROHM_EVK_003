@@ -724,7 +724,7 @@ int main(void)
     conn_params_init();
 
     // Start execution.
-    NRF_LOG_INFO("Magneto Sensor application start.");
+    NRF_LOG_INFO("accelerometer Sensor application start.");
     advertising_start();
 
     // Enter main loop.
