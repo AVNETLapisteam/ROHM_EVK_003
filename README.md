@@ -1,3 +1,4 @@
+2022/6/21 - Add BH1792GLC
 2021/6/9 - Update 17.0.2
 
 *ROHM Sensor Shield
@@ -12,8 +13,9 @@
 6. RPR0521RS-I2C(Ambient light sensor and Proximity sensor)
 7. BH1749NUC-I2C(Color sensor)
 8. BH1790GLC-I2C(Heart Rate sensor)
-9. BD7411G-GPIO(Hall sensor)
-10. BD1020HFV-ADC(Temperature sensor)
+9. BH1792GLC-I2C(Heart Rate sensor)
+10. BD7411G-GPIO(Hall sensor)
+11. BD1020HFV-ADC(Temperature sensor)
 
 
 - Bluetooth Low Energy Chip
@@ -73,6 +75,8 @@ Change VDD circuit on SensorShield-EVK-003
 @BH1749NUC : Color sensor - connect color application in custom nRFToolbox.
 
 @BH1790GLC : Heart Rate sensor - connect HRS application in anything nRFToolbox.
+
+@BH1792GLC : Heart Rate sensor - connect HRS application in custom nRFToolbox.
 
 @BD1020HFV : Temperature sensor - connect HTS application in anything nRFToolbox.
 
